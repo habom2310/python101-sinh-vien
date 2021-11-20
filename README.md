@@ -1,3 +1,3 @@
-# python101-sinh-vien
+# python101
 
-Đây là repo cho bài tập sinh viên
+Đây là repo cho Khóa học Python Turing school

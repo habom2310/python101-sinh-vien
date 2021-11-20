@@ -1,0 +1,2 @@
+STT,name,age,gender,diem_toan,diem_van,diem_anh
+1,Nguyen Van A,15,nam,1,2,3
